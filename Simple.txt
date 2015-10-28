@@ -1,6 +1,0 @@
-README.TXT
-==========
-This is the readme for project x.
-Created on Oct 28, 2015.
-
-NEW EDITS.
