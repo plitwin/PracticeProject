@@ -1,1 +1,4 @@
-This is a document with some text.
+README.TXT
+==========
+This is the readme for project x.
+Created on Oct 28, 2015.
